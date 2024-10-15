@@ -1,2 +1,4 @@
 venv_maps/
 map.ipynb
+auth.py
+__pycache__/
